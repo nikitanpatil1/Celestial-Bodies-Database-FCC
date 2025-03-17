@@ -31,4 +31,4 @@ Create database according to the conditions below:
 
 
 
-#### Commands used to build a database and complete the conditions are present in *universe.sql* file above.
+#### Commands used to build a database and complete the conditions are present in [*universe.sql*](https://github.com/nikitanpatil1/Celestial-Bodies-Database-FCC/blob/main/universe.sql) file above.
