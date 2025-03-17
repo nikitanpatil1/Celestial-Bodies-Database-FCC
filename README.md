@@ -29,3 +29,7 @@ By following the conditions below:
 - All columns named name should be of type **VARCHAR**.
 - Each primary key column should follow the naming convention **table_name_id**. For example, the moon table should have a primary key column named **moon_id**.
 - Each foreign key column should have the same name as the column it is referencing.
+
+
+
+#### Commands used to build a database and complete the conditions are present in *universe.sql* file above.
