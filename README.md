@@ -1,11 +1,10 @@
 # Celestial Bodies Database
 
+*This project consists of building a database of celestial bodies using PostgreSQL.*
 
 ## Problem Statement
 
-This project consists of *building a database of celestial bodies using PostgreSQL*.
-By following the conditions below:
-
+Create database according to the conditions below:
 - Create a database named **universe**.
 - Add tables named **galaxy**, **star**.
 - Each table should have a primary key.
